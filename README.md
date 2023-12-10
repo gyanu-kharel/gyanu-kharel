@@ -36,10 +36,6 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ASP.NET Core" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-    <br>Docker
-  </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -62,7 +58,11 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-     
+      </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="jquery" />
+      <br>SQL Server
+    </td>
   </tr>
    <tr>
     <td align="center" width="96">
@@ -73,10 +73,10 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+    <br>Docker
+  </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
