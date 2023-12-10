@@ -75,8 +75,8 @@
     <br>Docker
   </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="GitHub" />
+      <br>Azure
     </td>
   </tr>
  <tr>
