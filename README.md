@@ -32,10 +32,7 @@
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET Core
     </td>
-           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ASP.NET Core" />
-      <br>React
-    </td>
+
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -54,17 +51,17 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-        <td align="center" width="96">
+               <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ASP.NET Core" />
+      <br>React
+    </td>
+        
+  </tr>
+   <tr>
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-      </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="jquery" />
-      <br>SQL Server
-    </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
